@@ -162,3 +162,4 @@ If you find Ferret useful, please cite using this BibTeX:
 
 - [LLaVA](https://github.com/haotian-liu/LLaVA): the codebase we built upon. 
 - [Vicuna](https://github.com/lm-sys/FastChat): the LLM codebase.
+# apple_ferret
